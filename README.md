@@ -1,4 +1,4 @@
-###### Live Order Board
+# **Live Order Board**
 
 In order to use the LiveOrderBoard library Java 8 or above is required.
 
