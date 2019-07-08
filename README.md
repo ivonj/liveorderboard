@@ -2,7 +2,7 @@
 
 In order to use the LiveOrderBoard library Java 8 or above is required.
 
-The library is built from the source code using the Maven build tool as follows:
+#### Building the library using Maven.
 
-Use the following maven command at the root level of the project to build the library: "mvn clean package".
-This will also run the unit tests.
+- run "mvn clean package" at the root level of the project to compile and build the library as a jar file. 
+  This command will also run all unit tests.
